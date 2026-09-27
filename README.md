@@ -1,16 +1,23 @@
 # EDS 223 - Lecture
 
 
-[Course Website](https://eds-223-geospatial.github.io/)
 
-## Purpose
+## Course Information
 
-This repo hosts all of my homework assignments and projects completed for the course _EDS 223 - Geospatial Analysis & Remote Sensing_. This is an introductory course on spatial modeling and analytic techniques of geographic information science. It emphasizes a deep understanding of spatial data models and the analytic operations they enable.
+This repository hosts all the work completed by Karolina Sienko during the EDS 223 - *Geospatial Analysis & Remote Sensing* lectures. 
 
-## Contents
+This is an introductory course on spatial modeling and analytic techniques of geographic information science. It emphasizes a deep understanding of spatial data models and the analytic operations they enable.
 
-├── README_files
 
-├── README.html
+## Course Information
 
-└── README.md
+- **Course Title:** [EDS 223 - Working with Environmental Datasets](https://bren.ucsb.edu/courses/eds-223)
+- **Term:** Fall 2026
+- **Program:** [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
+
+Teaching Team:
+
+- **Instructor:** [Annie Adams](https://github.com/annieradams)
+- **TA:** Mary Salami
+
+Complete materials for the discussion sections and additional resources can be found on the [course website](https://eds-223-geospatial.github.io/).
